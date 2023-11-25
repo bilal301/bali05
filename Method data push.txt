@@ -1,0 +1,7 @@
+GitHub pe Data Push karne ka tariqa or is k sath github account open rhakna hai...
+
+
+git init
+git add .
+git commit -m "project1 name"
+git push origin main
